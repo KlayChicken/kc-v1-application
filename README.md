@@ -8,7 +8,7 @@ functions using kc-v1 nft
 
 ## Governance
 
-0x3BD8199646A3F2A479299684B9AEFA7a4Cf672A7
+0x5f622063dE1738F49D39Ed033D07bCae36ded376
 
 ## TugOfWar
 
